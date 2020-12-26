@@ -1,0 +1,1 @@
+d:\ma\multi\node_modules\.bin\prettier --single-quote --trailing-comma es5 --write "*.js"

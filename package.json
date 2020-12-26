@@ -1,0 +1,14 @@
+{
+	"version": "0.0.1",
+	"repository": {
+		"url": "https://github.com/mahongquan/multi",
+		"type": "git"
+	},
+	"dependencies": {
+	},
+	"scripts": {
+		"p": "prettier --single-quote --trailing-comma es5 --write \"*.js\""
+	},
+	"main": "main.js",
+	"name": "multi"
+}
